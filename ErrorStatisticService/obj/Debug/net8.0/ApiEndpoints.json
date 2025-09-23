@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "ErrorStatisticService.Controllers.ErrorLogsController",
+    "Method": "AggregateData",
+    "RelativePath": "api/ErrorLogs/aggregate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ErrorStatisticService.Controllers.ErrorLogsController",
+    "Method": "GenerateData",
+    "RelativePath": "api/ErrorLogs/generate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

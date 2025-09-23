@@ -1,0 +1,6 @@
+@ErrorStatisticService_HostAddress = http://localhost:5202
+
+GET {{ErrorStatisticService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

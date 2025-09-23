@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "PcUs0S1LDybwJCXVH32vdBC/LUzRVUobrttzMnbYKcM=",
+  "Source": "ErrorStatisticService",
+  "BasePath": "_content/ErrorStatisticService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

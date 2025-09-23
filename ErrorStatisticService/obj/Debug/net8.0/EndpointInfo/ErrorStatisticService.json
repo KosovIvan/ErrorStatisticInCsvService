@@ -1,0 +1,34 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "ErrorStatisticService",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/ErrorLogs/generate": {
+      "post": {
+        "tags": [
+          "ErrorLogs"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/ErrorLogs/aggregate": {
+      "post": {
+        "tags": [
+          "ErrorLogs"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}
