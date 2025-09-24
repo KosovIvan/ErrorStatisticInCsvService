@@ -3,36 +3,32 @@
   "WorkspaceRootPath": "C:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u0422\u0435\u0441\u0442\u043E\u0432\u044B\u0435\\Kaspersky\\ErrorStatisticService\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{705F3E13-8836-4FAE-8BE1-3BDBE8B558D0}|ErrorStatisticService\\ErrorStatisticService.csproj|c:\\\u0440\u0430\u0431\u043E\u0442\u0430\\\u0442\u0435\u0441\u0442\u043E\u0432\u044B\u0435\\kaspersky\\errorstatisticservice\\errorstatisticservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{705F3E13-8836-4FAE-8BE1-3BDBE8B558D0}|ErrorStatisticService\\ErrorStatisticService.csproj|solutionrelative:errorstatisticservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{705F3E13-8836-4FAE-8BE1-3BDBE8B558D0}|ErrorStatisticService\\ErrorStatisticService.csproj|c:\\\u0440\u0430\u0431\u043E\u0442\u0430\\\u0442\u0435\u0441\u0442\u043E\u0432\u044B\u0435\\kaspersky\\errorstatisticservice\\errorstatisticservice\\data\\csverrorlogsfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{705F3E13-8836-4FAE-8BE1-3BDBE8B558D0}|ErrorStatisticService\\ErrorStatisticService.csproj|solutionrelative:errorstatisticservice\\data\\csverrorlogsfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{705F3E13-8836-4FAE-8BE1-3BDBE8B558D0}|ErrorStatisticService\\ErrorStatisticService.csproj|c:\\\u0440\u0430\u0431\u043E\u0442\u0430\\\u0442\u0435\u0441\u0442\u043E\u0432\u044B\u0435\\kaspersky\\errorstatisticservice\\errorstatisticservice\\controllers\\errorlogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{705F3E13-8836-4FAE-8BE1-3BDBE8B558D0}|ErrorStatisticService\\ErrorStatisticService.csproj|solutionrelative:errorstatisticservice\\controllers\\errorlogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{705F3E13-8836-4FAE-8BE1-3BDBE8B558D0}|ErrorStatisticService\\ErrorStatisticService.csproj|c:\\\u0440\u0430\u0431\u043E\u0442\u0430\\\u0442\u0435\u0441\u0442\u043E\u0432\u044B\u0435\\kaspersky\\errorstatisticservice\\errorstatisticservice\\errors.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{705F3E13-8836-4FAE-8BE1-3BDBE8B558D0}|ErrorStatisticService\\ErrorStatisticService.csproj|solutionrelative:errorstatisticservice\\errors.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{705F3E13-8836-4FAE-8BE1-3BDBE8B558D0}|ErrorStatisticService\\ErrorStatisticService.csproj|c:\\\u0440\u0430\u0431\u043E\u0442\u0430\\\u0442\u0435\u0441\u0442\u043E\u0432\u044B\u0435\\kaspersky\\errorstatisticservice\\errorstatisticservice\\services\\randomerrorloggeneratorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{705F3E13-8836-4FAE-8BE1-3BDBE8B558D0}|ErrorStatisticService\\ErrorStatisticService.csproj|solutionrelative:errorstatisticservice\\services\\randomerrorloggeneratorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{705F3E13-8836-4FAE-8BE1-3BDBE8B558D0}|ErrorStatisticService\\ErrorStatisticService.csproj|c:\\\u0440\u0430\u0431\u043E\u0442\u0430\\\u0442\u0435\u0441\u0442\u043E\u0432\u044B\u0435\\kaspersky\\errorstatisticservice\\errorstatisticservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{705F3E13-8836-4FAE-8BE1-3BDBE8B558D0}|ErrorStatisticService\\ErrorStatisticService.csproj|solutionrelative:errorstatisticservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{705F3E13-8836-4FAE-8BE1-3BDBE8B558D0}|ErrorStatisticService\\ErrorStatisticService.csproj|c:\\\u0440\u0430\u0431\u043E\u0442\u0430\\\u0442\u0435\u0441\u0442\u043E\u0432\u044B\u0435\\kaspersky\\errorstatisticservice\\errorstatisticservice\\services\\irandomgeneratorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{705F3E13-8836-4FAE-8BE1-3BDBE8B558D0}|ErrorStatisticService\\ErrorStatisticService.csproj|solutionrelative:errorstatisticservice\\services\\irandomgeneratorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705F3E13-8836-4FAE-8BE1-3BDBE8B558D0}|ErrorStatisticService\\ErrorStatisticService.csproj|c:\\\u0440\u0430\u0431\u043E\u0442\u0430\\\u0442\u0435\u0441\u0442\u043E\u0432\u044B\u0435\\kaspersky\\errorstatisticservice\\errorstatisticservice\\controllers\\errorlogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{705F3E13-8836-4FAE-8BE1-3BDBE8B558D0}|ErrorStatisticService\\ErrorStatisticService.csproj|solutionrelative:errorstatisticservice\\controllers\\errorlogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{705F3E13-8836-4FAE-8BE1-3BDBE8B558D0}|ErrorStatisticService\\ErrorStatisticService.csproj|c:\\\u0440\u0430\u0431\u043E\u0442\u0430\\\u0442\u0435\u0441\u0442\u043E\u0432\u044B\u0435\\kaspersky\\errorstatisticservice\\errorstatisticservice\\models\\errorlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{705F3E13-8836-4FAE-8BE1-3BDBE8B558D0}|ErrorStatisticService\\ErrorStatisticService.csproj|solutionrelative:errorstatisticservice\\models\\errorlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{705F3E13-8836-4FAE-8BE1-3BDBE8B558D0}|ErrorStatisticService\\ErrorStatisticService.csproj|c:\\\u0440\u0430\u0431\u043E\u0442\u0430\\\u0442\u0435\u0441\u0442\u043E\u0432\u044B\u0435\\kaspersky\\errorstatisticservice\\errorstatisticservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{705F3E13-8836-4FAE-8BE1-3BDBE8B558D0}|ErrorStatisticService\\ErrorStatisticService.csproj|solutionrelative:errorstatisticservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{705F3E13-8836-4FAE-8BE1-3BDBE8B558D0}|ErrorStatisticService\\ErrorStatisticService.csproj|c:\\\u0440\u0430\u0431\u043E\u0442\u0430\\\u0442\u0435\u0441\u0442\u043E\u0432\u044B\u0435\\kaspersky\\errorstatisticservice\\errorstatisticservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{705F3E13-8836-4FAE-8BE1-3BDBE8B558D0}|ErrorStatisticService\\ErrorStatisticService.csproj|solutionrelative:errorstatisticservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,76 +38,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "errors.csv",
-              "DocumentMoniker": "C:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u0422\u0435\u0441\u0442\u043E\u0432\u044B\u0435\\Kaspersky\\ErrorStatisticService\\ErrorStatisticService\\errors.csv",
-              "RelativeDocumentMoniker": "ErrorStatisticService\\errors.csv",
-              "ToolTip": "C:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u0422\u0435\u0441\u0442\u043E\u0432\u044B\u0435\\Kaspersky\\ErrorStatisticService\\ErrorStatisticService\\errors.csv",
-              "RelativeToolTip": "ErrorStatisticService\\errors.csv",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACeUBgAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
-              "WhenOpened": "2025-09-23T01:05:55.994Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u0422\u0435\u0441\u0442\u043E\u0432\u044B\u0435\\Kaspersky\\ErrorStatisticService\\ErrorStatisticService\\Program.cs",
-              "RelativeDocumentMoniker": "ErrorStatisticService\\Program.cs",
-              "ToolTip": "C:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u0422\u0435\u0441\u0442\u043E\u0432\u044B\u0435\\Kaspersky\\ErrorStatisticService\\ErrorStatisticService\\Program.cs",
-              "RelativeToolTip": "ErrorStatisticService\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBIAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T22:19:13.88Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CsvErrorLogsFile.cs",
               "DocumentMoniker": "C:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u0422\u0435\u0441\u0442\u043E\u0432\u044B\u0435\\Kaspersky\\ErrorStatisticService\\ErrorStatisticService\\Data\\CsvErrorLogsFile.cs",
               "RelativeDocumentMoniker": "ErrorStatisticService\\Data\\CsvErrorLogsFile.cs",
               "ToolTip": "C:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u0422\u0435\u0441\u0442\u043E\u0432\u044B\u0435\\Kaspersky\\ErrorStatisticService\\ErrorStatisticService\\Data\\CsvErrorLogsFile.cs",
               "RelativeToolTip": "ErrorStatisticService\\Data\\CsvErrorLogsFile.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-22T23:48:46.06Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
+              "Title": "ErrorLog.cs",
+              "DocumentMoniker": "C:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u0422\u0435\u0441\u0442\u043E\u0432\u044B\u0435\\Kaspersky\\ErrorStatisticService\\ErrorStatisticService\\Models\\ErrorLog.cs",
+              "RelativeDocumentMoniker": "ErrorStatisticService\\Models\\ErrorLog.cs",
+              "ToolTip": "C:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u0422\u0435\u0441\u0442\u043E\u0432\u044B\u0435\\Kaspersky\\ErrorStatisticService\\ErrorStatisticService\\Models\\ErrorLog.cs",
+              "RelativeToolTip": "ErrorStatisticService\\Models\\ErrorLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T22:26:15.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "RandomErrorLogGeneratorService.cs",
               "DocumentMoniker": "C:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u0422\u0435\u0441\u0442\u043E\u0432\u044B\u0435\\Kaspersky\\ErrorStatisticService\\ErrorStatisticService\\Services\\RandomErrorLogGeneratorService.cs",
               "RelativeDocumentMoniker": "ErrorStatisticService\\Services\\RandomErrorLogGeneratorService.cs",
               "ToolTip": "C:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u0422\u0435\u0441\u0442\u043E\u0432\u044B\u0435\\Kaspersky\\ErrorStatisticService\\ErrorStatisticService\\Services\\RandomErrorLogGeneratorService.cs",
               "RelativeToolTip": "ErrorStatisticService\\Services\\RandomErrorLogGeneratorService.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAuwBIAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-22T23:11:57.205Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u0422\u0435\u0441\u0442\u043E\u0432\u044B\u0435\\Kaspersky\\ErrorStatisticService\\ErrorStatisticService\\appsettings.json",
-              "RelativeDocumentMoniker": "ErrorStatisticService\\appsettings.json",
-              "ToolTip": "C:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u0422\u0435\u0441\u0442\u043E\u0432\u044B\u0435\\Kaspersky\\ErrorStatisticService\\ErrorStatisticService\\appsettings.json",
-              "RelativeToolTip": "ErrorStatisticService\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-23T00:20:47.136Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "IRandomGeneratorService.cs",
               "DocumentMoniker": "C:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u0422\u0435\u0441\u0442\u043E\u0432\u044B\u0435\\Kaspersky\\ErrorStatisticService\\ErrorStatisticService\\Services\\IRandomGeneratorService.cs",
               "RelativeDocumentMoniker": "ErrorStatisticService\\Services\\IRandomGeneratorService.cs",
@@ -124,13 +94,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "ErrorLogsController.cs",
               "DocumentMoniker": "C:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u0422\u0435\u0441\u0442\u043E\u0432\u044B\u0435\\Kaspersky\\ErrorStatisticService\\ErrorStatisticService\\Controllers\\ErrorLogsController.cs",
               "RelativeDocumentMoniker": "ErrorStatisticService\\Controllers\\ErrorLogsController.cs",
               "ToolTip": "C:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u0422\u0435\u0441\u0442\u043E\u0432\u044B\u0435\\Kaspersky\\ErrorStatisticService\\ErrorStatisticService\\Controllers\\ErrorLogsController.cs",
               "RelativeToolTip": "ErrorStatisticService\\Controllers\\ErrorLogsController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCIAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-22T23:05:06.753Z",
               "EditorCaption": ""
@@ -138,14 +108,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "ErrorLog.cs",
-              "DocumentMoniker": "C:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u0422\u0435\u0441\u0442\u043E\u0432\u044B\u0435\\Kaspersky\\ErrorStatisticService\\ErrorStatisticService\\Models\\ErrorLog.cs",
-              "RelativeDocumentMoniker": "ErrorStatisticService\\Models\\ErrorLog.cs",
-              "ToolTip": "C:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u0422\u0435\u0441\u0442\u043E\u0432\u044B\u0435\\Kaspersky\\ErrorStatisticService\\ErrorStatisticService\\Models\\ErrorLog.cs",
-              "RelativeToolTip": "ErrorStatisticService\\Models\\ErrorLog.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA9AAAAAAAAAA==",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u0422\u0435\u0441\u0442\u043E\u0432\u044B\u0435\\Kaspersky\\ErrorStatisticService\\ErrorStatisticService\\appsettings.json",
+              "RelativeDocumentMoniker": "ErrorStatisticService\\appsettings.json",
+              "ToolTip": "C:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u0422\u0435\u0441\u0442\u043E\u0432\u044B\u0435\\Kaspersky\\ErrorStatisticService\\ErrorStatisticService\\appsettings.json",
+              "RelativeToolTip": "ErrorStatisticService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-23T00:20:47.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u0422\u0435\u0441\u0442\u043E\u0432\u044B\u0435\\Kaspersky\\ErrorStatisticService\\ErrorStatisticService\\Program.cs",
+              "RelativeDocumentMoniker": "ErrorStatisticService\\Program.cs",
+              "ToolTip": "C:\\\u0420\u0430\u0431\u043E\u0442\u0430\\\u0422\u0435\u0441\u0442\u043E\u0432\u044B\u0435\\Kaspersky\\ErrorStatisticService\\ErrorStatisticService\\Program.cs",
+              "RelativeToolTip": "ErrorStatisticService\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABIAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T22:26:15.485Z",
+              "WhenOpened": "2025-09-22T22:19:13.88Z",
               "EditorCaption": ""
             }
           ]

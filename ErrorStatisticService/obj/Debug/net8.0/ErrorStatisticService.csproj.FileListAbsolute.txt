@@ -35,3 +35,4 @@ C:\Работа\Тестовые\Kaspersky\ErrorStatisticService\ErrorStatisticS
 C:\Работа\Тестовые\Kaspersky\ErrorStatisticService\ErrorStatisticService\obj\Debug\net8.0\ErrorStatisticService.genruntimeconfig.cache
 C:\Работа\Тестовые\Kaspersky\ErrorStatisticService\ErrorStatisticService\obj\Debug\net8.0\ref\ErrorStatisticService.dll
 C:\Работа\Тестовые\Kaspersky\ErrorStatisticService\ErrorStatisticService\bin\Debug\net8.0\CsvHelper.dll
+C:\Работа\Тестовые\Kaspersky\ErrorStatisticService\ErrorStatisticService\obj\Debug\net8.0\ErrorStatisticService.sourcelink.json
